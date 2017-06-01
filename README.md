@@ -50,7 +50,7 @@ Below is the list of layers and their respective components you'll find inside S
 To get started you can simply clone the `seedularjs` repository and install its dependencies:
 
 ### Requirements
-SeedularJS is to be used with Git, Node >= 7.10.0, NPM => 4.6.1, and Gulp CLI >= 1.3.0. You can check your version numbers with the following command:
+SeedularJS is to be used with Git, Node >= 7.10.0, NPM >= 4.6.1, and Gulp CLI >= 1.3.0. You can check your version numbers with the following command:
 ```
 git --version && node --version && npm --version && gulp --version
 ```
